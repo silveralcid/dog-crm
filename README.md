@@ -19,15 +19,16 @@ This project is currently in its early stages and expected to evolve over the ne
 
 ## Background
 
-My fiancée has over 10 years of experience in pet grooming and has used countless CRMs and booking systems.  
-Most of them share the same flaws:
+Through research and discussions with experienced groomers, it became clear that most existing CRMs and booking systems fail to address the unique challenges of the pet grooming industry. Many of these platforms are adapted from human salon software, lacking the flexibility to account for the wide range of variables that affect grooming sessions.
 
-- Designed for salons or spas, not pet grooming  
-- Too generic or feature-bloated  
-- Poor adaptability to real grooming conditions  
-- Expensive or closed-source  
+Across the market, several recurring issues stand out:
 
-The result: inefficiency, inaccurate scheduling, and little insight into performance or productivity.
+- Designed primarily for salons or spas rather than grooming businesses  
+- Either too generic or overloaded with unnecessary features  
+- Poorly suited to the realities of day-to-day grooming operations  
+- Often expensive or locked behind closed, proprietary systems  
+
+These limitations lead to inefficiency, inaccurate scheduling, and a lack of actionable insights into performance and client experience.
 
 ## Goal
 
