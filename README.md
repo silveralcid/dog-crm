@@ -1,6 +1,4 @@
-# Dog CRM
-
-[GitHub Repository](https://github.com/silveralcid/dog-crm)
+# Dog CRM - Name TBD
 
 A pet-centric, groomer-first CRM and booking system designed to adapt to real-world grooming conditions.
 
